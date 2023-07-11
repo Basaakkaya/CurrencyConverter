@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3D016F552A5C8C02008E270F /* ApiManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D016F542A5C8C02008E270F /* ApiManager.swift */; };
 		3D7C5F802A5090C600282541 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D7C5F7F2A5090C600282541 /* AppDelegate.swift */; };
 		3D7C5F822A5090C600282541 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D7C5F812A5090C600282541 /* SceneDelegate.swift */; };
 		3D7C5F842A5090C600282541 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D7C5F832A5090C600282541 /* ViewController.swift */; };
@@ -37,6 +38,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		3D016F542A5C8C02008E270F /* ApiManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ApiManager.swift; sourceTree = "<group>"; };
 		3D7C5F7C2A5090C600282541 /* CurrencyConverter.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CurrencyConverter.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3D7C5F7F2A5090C600282541 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3D7C5F812A5090C600282541 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -104,6 +106,7 @@
 				3D7C5F7F2A5090C600282541 /* AppDelegate.swift */,
 				3D7C5F812A5090C600282541 /* SceneDelegate.swift */,
 				3D7C5F832A5090C600282541 /* ViewController.swift */,
+				3D016F542A5C8C02008E270F /* ApiManager.swift */,
 				3D7C5F852A5090C600282541 /* Main.storyboard */,
 				3D7C5F8B2A5090C700282541 /* Assets.xcassets */,
 				3D7C5F8D2A5090C700282541 /* LaunchScreen.storyboard */,
@@ -263,6 +266,7 @@
 			files = (
 				3D7C5F842A5090C600282541 /* ViewController.swift in Sources */,
 				3D7C5F8A2A5090C600282541 /* CurrencyConverter.xcdatamodeld in Sources */,
+				3D016F552A5C8C02008E270F /* ApiManager.swift in Sources */,
 				3D7C5F802A5090C600282541 /* AppDelegate.swift in Sources */,
 				3D7C5F822A5090C600282541 /* SceneDelegate.swift in Sources */,
 			);
